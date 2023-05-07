@@ -1,0 +1,25 @@
+.card{
+    border-bottom: 50px;
+    border: solid black 1px;
+    padding: 18px;
+    margin: 20px;
+  
+}
+h1{
+    text-align: center;
+}
+body{
+  background-image: linear-gradient( to right bottom,rgb(216, 110, 110),rgb(121, 231, 121),rgb(141, 141, 230));
+}
+button{
+    background-color: rgb(93, 164, 192);
+    height: 30px;
+    width: 100px;
+    color: black;
+}
+.company{
+    font-size: 200px;
+}
+h2{
+    font-size: 200px;
+}
